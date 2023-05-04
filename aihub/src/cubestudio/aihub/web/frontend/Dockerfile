@@ -1,4 +1,4 @@
-FROM nginx:latest
+FROM nginx:1-bullseye
 COPY build/ /usr/share/nginx/html/
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
