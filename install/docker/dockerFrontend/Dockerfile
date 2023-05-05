@@ -1,6 +1,6 @@
 # docker build -t ccr.ccs.tencentyun.com/cube-studio/kubeflow-dashboard-frontend:2022.12.01 -f install/docker/dockerFrontend/Dockerfile .
 
-FROM nginx
+FROM nginx:1-bullseye
 
 MAINTAINER star-frontend
 
