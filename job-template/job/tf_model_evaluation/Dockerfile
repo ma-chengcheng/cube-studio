@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.3.0
+FROM tensorflow/tensorflow:2.13.0rc2
 
 RUN pip uninstall -y protobuf && \
     pip install protobuf  nni  tensorflow_datasets  sklearn  sklearn_pandas scipy  gensim  prettytable
