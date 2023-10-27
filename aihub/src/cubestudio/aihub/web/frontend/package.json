@@ -27,7 +27,7 @@
     "@types/stats.js": "^0.17.0",
     "@types/three": "^0.129.0",
     "antd": "^4.21.3",
-    "axios": "^0.21.0",
+    "axios": "^1.6.0",
     "babel-jest": "^27.4.2",
     "babel-loader": "^8.2.3",
     "babel-plugin-named-asset-import": "^0.3.8",
