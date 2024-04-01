@@ -11,7 +11,7 @@ pip-tools==3.7.0
 pre-commit==1.17.0
 psycopg2-binary==2.8
 pycodestyle==2.5.0
-pylint==1.9.2
+pylint==2.6.1
 redis==3.2.1
 requests==2.22.0
 statsd==3.3.0
