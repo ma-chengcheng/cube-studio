@@ -24,7 +24,7 @@
     "react-monaco-editor": "^0.44.0",
     "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
-    "xgplayer": "^2.28.0",
+    "xgplayer": "^3.0.1",
     "http-proxy-middleware": "^2.0.6"
   },
   "scripts": {
