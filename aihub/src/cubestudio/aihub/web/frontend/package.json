@@ -49,7 +49,7 @@
     "enquire-js": "^0.2.1",
     "eslint": "^8.3.0",
     "eslint-config-react-app": "^7.0.0",
-    "eslint-webpack-plugin": "^3.1.1",
+    "eslint-webpack-plugin": "^5.0.0",
     "file-loader": "^6.2.0",
     "fs-extra": "^10.0.0",
     "glslify-loader": "^2.0.0",
